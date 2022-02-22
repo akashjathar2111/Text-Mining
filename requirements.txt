@@ -1,0 +1,10 @@
+wordcloud
+sklearn
+nltk
+string
+streamlit
+textblob
+spacy
+matplotlib
+re
+pandas
