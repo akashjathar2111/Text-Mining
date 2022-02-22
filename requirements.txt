@@ -1,7 +1,6 @@
 wordcloud
 sklearn
 nltk
-string
 streamlit
 textblob
 spacy
